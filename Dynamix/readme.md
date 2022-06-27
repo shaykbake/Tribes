@@ -1,1 +1,1 @@
-This directory is for original Dynamix files.
+These are original Dynamix files.
