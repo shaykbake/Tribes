@@ -1,4 +1,5 @@
-# Tribes 1.11
+# Tribes 1.11 by Shayk-N'-Bake
+
 This is Tribes 1.11 vanilla by Shayk-N'-Bake. This installation was created using a 1.8-version CD as a starting point, which was then patched to version 1.11 using the official 1.8-to-1.11 patch file provided from Dynamix.
 
 Beyond the patch to version 1.11, the only additions to this setup are:

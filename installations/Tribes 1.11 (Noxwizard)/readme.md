@@ -1,4 +1,5 @@
-# Tribes 1.11
+# Tribes 1.11 by Noxwizard
+
 This is Tribes 1.11 by Noxwizard.
 
 As of the time of this setup being added to the repository, it is also still available on [The Exiled team website](http://library.theexiled.pwnageservers.com/file.php?id=2696).
