@@ -1,4 +1,4 @@
-deleteVariables("$Server::MasterAddress*");
+deleteVariables("Server::MasterAddress*");
 
 %i = -1;
 $MasterAddress[%i++] = "t1m1.masters.tribesmasterserver.com:28000";
