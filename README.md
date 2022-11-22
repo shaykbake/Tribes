@@ -15,5 +15,8 @@ This will be updated as the repo gets populated.
 ├── 1.11
 ├── 1.41
 ├─ Mods
+├── 1.11
+├─── Client
+├─── Server
 └─ README.md
 ```
