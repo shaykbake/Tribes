@@ -1,13 +1,13 @@
     // ======================================================================================================
     // Client Master Servers Configuration Script
     // By: Shayk-N'-Bake
-    // https://shayk.mk0.pw/
+    // https://github.com/shaykbake/Tribes/
     // ------------------------------------------------------------------------------------------------------
     // Installation: Place into TRIBES\config directory and add the following line to the autoexec.cs file:
     // exec(MasterServers);
     // You can edit the $MasterAddress* variables below to change the addresses your client will query for servers.
     // ------------------------------------------------------------------------------------------------------
-    // Please visit https://shayk.mk0.pw/ and view the file for any updates or changes to the known list of master servers.
+    // Please visit https://github.com/shaykbake/Tribes/ and view the file for any updates or changes to the known list of master servers.
     // ======================================================================================================
      
      
