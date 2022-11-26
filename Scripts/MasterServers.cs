@@ -9,6 +9,7 @@
     // You can edit the $MasterAddress* variables below to change the addresses your client will query for servers.
     // ------------------------------------------------------------------------------------------------------
     // Please visit https://github.com/shaykbake/Tribes/ and view the file for any updates or changes to the known list of master servers.
+    // You can also post at https://github.com/shaykbake/Tribes/discussions to provide any updated master servers of your own for others to add.
     // ======================================================================================================
      
      
