@@ -1,0 +1,114 @@
+Tribes Voice Command Lines:
+
+ID 						String Voice
+ 
+~wbelay 					Belay Order 
+~wboarda 					Board APC 
+~wcapobj 					Capture the Objective 
+~wattack 					ATTACK! 
+~wattbase 					Attack the Enemy Base 
+~wattenem 					Attack the Enemy 
+~wattobj 					Attack Objective 
+~wwaitsig 					Wait for my signal to attack 
+~wattway 					attack enemy at waypoint 
+~wcease 					Cease fire! 
+~wdefbase 					Defend our base! 
+~wdefobj 					Defend objective! 
+~wdefway 					Defend waypoint 
+~wdepbecn 					Deploy beacon at waypoint 
+~wdeptur 					deploy remote turret at waypoint 
+~wgeteflg 					get the enemy flag 
+~wgetobj 					get objective 
+~wgodef 					go on the defensive 
+~wgooff 					go on the offensive 
+~wgoway 					proceed to waypoint 
+~wmoveout 					MOVE OUT! 
+~wregroup 					REGROUP! 
+~wrepitem 					Repair Item at Waypoint 
+~wrepobj 					Repair Objective 
+~wretreat 					RETREAT! 
+~wretflag 					Return our flag to our base 
+~wbsclr2 					our base is secure 
+~wbasetkn 					our base has been taken 
+~wbasundr 					the enemy is attacking our base 
+~wbasatt 					we're being attacked 
+~wdefend 					defending our base 
+~wflaghm 					our flag is secure 
+~wflgtkn1 					our flag is not in the base 
+~wflgtkm2 					the enemy has our flag 
+~wincom2 					incoming enemies 
+~wneeddef 					we need more defense 
+~wdepamo 					deploy ammo station at waypoint 
+~wdepcam 					deploy camera at waypoint 
+~wdepinv 					deploy inventory station at waypoint 
+~wdepjamr 					deploy sensor jammer at waypoint 
+~wdepmot 					deploy motion sensor at waypoint 
+~wdeppuls 					deploy pulse sensor at waypoint 
+~wescfr 					escort player at waypoint 
+~wfiretgt 					fire on my target 
+~wacknow 					acknowleged 
+~wbye 						bye 
+~wcheer1 					YEAH 
+~wcheer2 					WOO-HOO 
+~wcheer3 					ALL RIGHT 
+~wcolor2 					Shazbot 
+~wcolor3 					Hmmm 
+~wcolor6 					Dammit! 
+~wcolor7 					Ahhh Crap! 
+~wdsgst1 					Duh! 
+~wdsgst2 					You Idiot! 
+~wdsgst4 					AWWWWWUUUUHHH!! 
+~wdsgst5 					@nbsp; 
+~whello 					hi 
+~wdontkno 					I don't know 
+~wno 						no 
+~woops1 					DOH! 
+~woops2 					Ooops! 
+~wsorry 					sorry 
+~wtaunt1 					Yooo-Hooo! 
+~wtaunt10 					Howd that feel? 
+~wtautn11 					I've Had worse 
+~wtaunt2 					Missed me! 
+~wtaunt3 					Dance! 
+~wtaunt4 					Come Get some 
+~wwshoot1 					Hey! 
+~wwshoot3 					Watch where you're shooting 
+~wyes 						yes 
+~wneedesc 					I need an escort back to base 
+~wneedpku 					I need an APC pickup 
+~wneedtgt 					I need a target 
+~wobjcomp 					objective completed 
+~wobjxcmp 					unable to complete objective 
+~wattac2 					ATTACK! 
+~wcoverme 					Cover me! 
+~whaveflg 					I have the enemy flag heading back to our base. 
+~wproceed 					Proceed ahead! 
+~whelp 						Help! 
+~whitdeck 					Hit the deck! 
+~wneedamo 					can anyone bring me some ammo? 
+~wneedrep 					need repairs 
+~wisbsclr 					is our base clear 
+~wono 						going offense 
+~wovrhere 					over here! 
+~wready 					ready! 
+~wtakcovr 					TAKE COVER!!! 
+~wwait1 					Wait... 
+~wwait2 					Waiting... 
+~wordcan 					order cancelled 
+~wpilot 					pilot APC to waypoint 
+~wrepeqp 					repair equipment at waypoint 
+~wrepplyr 					repair freindly at waypoint 
+~wtgtacq 					target acquired 
+~wtgtobj 					target located 
+~wtgtout 					target out of range... 
+~wclrflg 					Clear the mines from our flag 
+~wclrobj 					Clear the mines from our objective 
+~wdesgen 					Destroy the enemy generator 
+~wdestur 					Destroy enemy turret 
+~wflgmine 					Our flag is mined 
+~wgendes 					Enemy generator destroyed 
+~whurystn 					Hurry up with that station 
+~wmineclr 					Mines have been cleared 
+~wmineflg 					Mine the flag 
+~wmineobj 					Our objective is mined 
+~wnoprob 					No problem 

@@ -1,0 +1,72 @@
+// Am not very good at explaning how to do this but ill give it ago.
+// open the maps .mis file in wordpad or notepad. eg. blankmap.mis
+// Next find.
+
+instant SimGroup "Zones" {
+
+// next make a line below it inbertween the next line and it and enter your new zone there. 
+// A normal zone looks like below.
+
+		instant SimGroup "PROTECTED Keldrin Camp" {
+			instant SimGroup "ENTERSOUND object_harp.wav";
+			instant SimGroup "DropPoints" {
+				instant Marker "Marker1" {
+					dataBlock = "PathMarker";
+					name = "";
+					position = "2084.54 1444.3 2094";
+					rotation = "0 -0 0.719873";
+				};
+				instant Marker "Marker1" {
+					dataBlock = "PathMarker";
+					name = "";
+					position = "2099.94 1425.63 2087";
+					rotation = "0 -0 0.719873";
+				};
+				instant Marker "Marker1" {
+					dataBlock = "PathMarker";
+					name = "";
+					position = "2092.47 1412.51 2091";
+					rotation = "0 -0 0.719873";
+				};
+				instant Marker "Marker1" {
+					dataBlock = "PathMarker";
+					name = "";
+					position = "2051.07 1416.51 2089.5";
+					rotation = "0 -0 0.719873";
+				};
+			};
+			instant SimGroup "AMBIENTSOUND area_plains.wav 10";
+			instant Marker "100 100 150 0" {
+				dataBlock = "PathMarker";
+				name = "";
+				position = "2079.19 1411 2090";
+				rotation = "0 0 0";
+			};
+		};
+
+// Ill try and lable what the importan things do. The parts you need to change any way.
+
+		instant SimGroup "PROTECTED Keldrin Camp" {				// the first part inside the "" is the type of zone. choices are PROTECTED, DUNGEON, FREEFORALL the second part is the zones name ex. Keldrin Camp type of zone must be in uppercase but the zones name can be pritty much what you want.
+			instant SimGroup "ENTERSOUND object_harp.wav";			// music played when player enters the zone.
+			instant SimGroup "DropPoints" {
+				instant Marker "Marker1" {					// first zone spawn point. used to spawn palyer to when he dies in that zone or transports to it.
+					dataBlock = "PathMarker";
+					name = "";
+					position = "2084.54 1444.3 2094";			// the location the player will spawn. press P on landscape when admin to get postions.
+					rotation = "0 -0 0.719873";				// the rotation the player will face when spawned. North = 0 0 0  East = 0 0 4.709  South = 0 0 3.139  West = 0 0 1.57
+				};
+				instant Marker "Marker1" {					// second zone spawn point. you can add as many as u like just follow the format of these two.
+					dataBlock = "PathMarker";
+					name = "";
+					position = "2099.94 1425.63 2087";
+					rotation = "0 -0 0.719873";
+				};
+			};
+			instant SimGroup "AMBIENTSOUND area_plains.wav 10";		// the music player will here while in the zone.
+			instant Marker "100 100 150 0" {					// the size of the zone. this one is 100m by 100m by 150m height. not sure what 4# does but 3rd is heght of zone and first 2 are like north east south west size but not sure which does which.
+				dataBlock = "PathMarker";
+				name = "";
+				position = "2079.19 1411 2090";				// the postion of the zone.
+				rotation = "0 0 0";						// the rotation of the zone. i have never needed to alter this but am sure theres a use for it.. lol.
+			};
+		};
