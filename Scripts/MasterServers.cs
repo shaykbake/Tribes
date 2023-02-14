@@ -2,7 +2,7 @@
     // Client Master Servers Configuration Script
     // By: Shayk-N'-Bake
     // https://github.com/shaykbake/Tribes/
-    // https://longshots.mk0.pw/
+    // https://longshots.eu.org/
     // ------------------------------------------------------------------------------------------------------
     // Installation: Place into TRIBES\config directory and add the following line to the autoexec.cs file:
     // exec(MasterServers);
